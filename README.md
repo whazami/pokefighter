@@ -6,6 +6,10 @@ PokeFighter is a project developed for students at the IPSSI school, which is wh
 
 You can access the website [here](https://pokefighter-136fb.web.app/).
 
+<div align="center">
+  <img src="./screenshots/main.png" alt="main page">
+</div>
+
 ## Features
 
 * Display of all Pokémon with a search bar functionality.
@@ -27,3 +31,11 @@ You can access the website [here](https://pokefighter-136fb.web.app/).
 * Integrating the PokeAPI to obtain information about Pokémon and effectively managing API calls.
 * Designing and implementing battles between users, along with the associated game mechanics.
 * Deploying the application on a hosting platform.
+
+## Screenshots
+
+<div align="center">
+  <img src="./screenshots/new-pokemon.png" alt="new pokemon">
+  <img src="./screenshots/prepare-fight.png" alt="preparing fight">
+  <img src="./screenshots/fight.png" alt="in fight">
+</div>
