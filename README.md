@@ -35,7 +35,7 @@ You can access the website [here](https://pokefighter-136fb.web.app/).
 ## Screenshots
 
 <div align="center">
-  <img src="./screenshots/new-pokemon.png" alt="new pokemon">
-  <img src="./screenshots/prepare-fight.png" alt="preparing fight">
+  <img src="./screenshots/new-pokemon.png" alt="new pokemon" width="42%" >
+  <img src="./screenshots/prepare-fight.png" alt="preparing fight" width="56%">
   <img src="./screenshots/fight.png" alt="in fight">
 </div>
