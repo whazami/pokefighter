@@ -39,3 +39,7 @@ You can access the website [here](https://pokefighter-136fb.web.app/).
   <img src="./screenshots/prepare-fight.png" alt="preparing fight" width="56%">
   <img src="./screenshots/fight.png" alt="in fight">
 </div>
+
+## Troubleshooting
+
+The website may be slow upon the first connection. Don't hesitate to refresh the page if it takes too long, or try again in a few minutes.
