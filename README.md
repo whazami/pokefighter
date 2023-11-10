@@ -4,7 +4,7 @@
 
 PokeFighter is a project I developed for the students I had at the IPSSI school, which is why the source code is not provided. The goal is to develop a web application with a user interface and server-side management using the MERN stack (MongoDB, ExpressJS, ReactJS, NodeJS). The project utilizes the [PokeAPI](https://pokeapi.co/) to retrieve information about Pokémon.
 
-You can access the website [here](https://pokefighter-136fb.web.app/).
+You can access the website [here](https://pokefighter.vercel.app/).
 
 <div align="center">
   <img src="./screenshots/main.png" alt="main page">
